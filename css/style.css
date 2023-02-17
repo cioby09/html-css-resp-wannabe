@@ -139,6 +139,18 @@ img {
     .row {
         display: block;
     }
+
+    .why-us {
+        background: #222222;
+        padding: 3rem 0;
+        margin-bottom: 0;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+
 }
 
 @media screen and (max-width: 768px) {
